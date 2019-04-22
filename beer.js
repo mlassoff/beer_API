@@ -27,7 +27,7 @@ btnSearch.onclick = function(){
 function beerOut(beer) {
     console.log(beer);
     out += `<div class="beer">
-      <img src="${beer[3]}"/>
+      <div class="beerImage"><img src="${beer[3]}"/></div>
       <div class="beerText">
             <h2>${beer[0]}</h2>
             <h3>${beer[1]}</h3>
