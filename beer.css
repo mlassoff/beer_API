@@ -1,0 +1,27 @@
+#food {
+  width: 95%
+}
+
+#container {
+  margin: 5px;
+}
+
+
+.beer {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.beer img{
+  width:10%;
+  float: right;
+  padding: 20px;
+}
+
+.beer h1{
+  margin-bottom: 4px;
+  padding-bottom: 0px;
+}
